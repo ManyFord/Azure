@@ -1,0 +1,17 @@
+C:\Users\Alexandre\Downloads\wpfloginscreen\wpfloginscreen\bin\Debug\wpfloginscreen.exe.config
+C:\Users\Alexandre\Downloads\wpfloginscreen\wpfloginscreen\bin\Debug\wpfloginscreen.exe
+C:\Users\Alexandre\Downloads\wpfloginscreen\wpfloginscreen\bin\Debug\wpfloginscreen.pdb
+C:\Users\Alexandre\Downloads\wpfloginscreen\wpfloginscreen\obj\Debug\View.csprojResolveAssemblyReference.cache
+C:\Users\Alexandre\Downloads\wpfloginscreen\wpfloginscreen\obj\Debug\LoginScreen.baml
+C:\Users\Alexandre\Downloads\wpfloginscreen\wpfloginscreen\obj\Debug\LoginScreen.g.cs
+C:\Users\Alexandre\Downloads\wpfloginscreen\wpfloginscreen\obj\Debug\MainWindow.g.cs
+C:\Users\Alexandre\Downloads\wpfloginscreen\wpfloginscreen\obj\Debug\App.g.cs
+C:\Users\Alexandre\Downloads\wpfloginscreen\wpfloginscreen\obj\Debug\wpfloginscreen_MarkupCompile.cache
+C:\Users\Alexandre\Downloads\wpfloginscreen\wpfloginscreen\obj\Debug\wpfloginscreen_MarkupCompile.lref
+C:\Users\Alexandre\Downloads\wpfloginscreen\wpfloginscreen\obj\Debug\MainWindow.baml
+C:\Users\Alexandre\Downloads\wpfloginscreen\wpfloginscreen\obj\Debug\wpfloginscreen.g.resources
+C:\Users\Alexandre\Downloads\wpfloginscreen\wpfloginscreen\obj\Debug\wpfloginscreen.Properties.Resources.resources
+C:\Users\Alexandre\Downloads\wpfloginscreen\wpfloginscreen\obj\Debug\View.csproj.GenerateResource.Cache
+C:\Users\Alexandre\Downloads\wpfloginscreen\wpfloginscreen\obj\Debug\View.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre\Downloads\wpfloginscreen\wpfloginscreen\obj\Debug\wpfloginscreen.exe
+C:\Users\Alexandre\Downloads\wpfloginscreen\wpfloginscreen\obj\Debug\wpfloginscreen.pdb
